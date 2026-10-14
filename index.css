@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-weight: 100;
+}
+
+.img-button img {
+    width: auto;
+    height: 300px;
+}
+
+.img-button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.image-grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+body {
+    background-color: rgba(252, 242, 242, 0.75);
+}
